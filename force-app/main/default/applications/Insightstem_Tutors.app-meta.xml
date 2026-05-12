@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>Insightstem Tutors</label>
+    <navType>Standard</navType>
+    <tabs>standard-home</tabs>
+    <tabs>Parent__c</tabs>
+    <tabs>Grade_Level__c</tabs>
+    <tabs>Children__c</tabs>
+    <tabs>Service__c</tabs>
+    <tabs>Payment__c</tabs>
+    <tabs>API_Log__c</tabs>
+    <tabs>Employee__c</tabs>
+    <tabs>Income__c</tabs>
+    <tabs>Expense__c</tabs>
+    <tabs>Revenue__c</tabs>
+    <tabs>Inbound_Record__c</tabs>
+    <tabs>standard-Case</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Insightstem_Tutors_UtilityBar</utilityBar>
+</CustomApplication>
